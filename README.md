@@ -1,4 +1,4 @@
-# Analiza danych – []
+# Analiza danych – predykcja transakcji kartowych za pomocą modeli predykcyjnych/klasyfikacyjnych
 
 ## Cel projektu
 Celem projektu jest znaleźć i zbudować najlepszy model predykcyjny/klasyfikacyjny, dla bazy danych transakcji kartowych. Głównym zadaniem modelu jest predykcja czy dana transakcja rekurencyjna jest udana czy też nie. Następnie zbudować model predykcyjny dla zmiennej "amount" dla transakcji rekurencyjnych.
@@ -6,7 +6,7 @@ Celem projektu jest znaleźć i zbudować najlepszy model predykcyjny/klasyfikac
 ## Wykorzystane narzędzia
 - R
 - RStudio
-- [wykorzystane pakiety, np. tidyverse, ggplot2]
+- wykorzystane pakiety, np. 
 
 ## Zakres analizy
 - Przygotowanie i czyszczenie danych
