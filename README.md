@@ -16,4 +16,4 @@ Celem projektu było znaleźć i zbudować najlepszy model predykcyjny/klasyfika
 
 
 ## Raport
-Pełny raport z analizą, wykresami i wnioskami znajduje się w pliku [`raport.pdf`](raport.pdf).
+Pełny raport z analizą, wykresami i wnioskami znajduje się w pliku [`raport`](Raport_Modele_nieparametryczne.html).
